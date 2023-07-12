@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <text transform="matrix(4.56166 0 0 4.66095 -558.311 -468.972)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_1" y="142.27717" x="137.89826" stroke-width="16" fill="#ffffff" stroke="#000">first</text>
+  <text transform="matrix(4.2469 0 0 4.33934 -490.023 -417.962)" xml:space="preserve" text-anchor="start" font-family="'Big Shoulders Display'" font-size="24" id="svg_2" y="167.62463" x="153.05758" stroke-width="16" fill="#ffffff" stroke="#000">last</text>
+ </g>
+
+</svg>

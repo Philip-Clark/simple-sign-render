@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="166.856 72.398 62.217 59.955" width="62.217" height="59.955" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+
+  <rect x="179.864" y="86.538" width="37.33" height="28.846" style="stroke: rgb(0, 0, 0);"/>
+  <text style="fill: rgb(255, 255, 255); font-family: Aclonica; font-size: 15.8px; paint-order: stroke; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 11px; white-space: pre;" x="179.864" y="95.023">first</text>
+  <text style="fill: rgb(255, 255, 255); font-family: Fasthand; font-size: 15.8px; paint-order: stroke; stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 6.04468px; white-space: pre;" transform="matrix(1.800852, 0, 0, 1.83871, -144.722382, -78.090553)" x="179.298" y="108.597">last</text>
+</svg>
